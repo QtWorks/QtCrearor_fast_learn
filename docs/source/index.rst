@@ -3,13 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Qt Creator 快速入门's documentation!
-===============================================
+目录
+========================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   model_view/index
 
 
 Indices and tables

@@ -1,0 +1,5 @@
+*.swp
+moc_mainwindow.cpp
+myProxyModel
+ui_mainwindow.h
+myProxyModel.pro.user
