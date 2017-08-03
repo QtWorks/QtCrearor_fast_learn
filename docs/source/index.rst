@@ -11,6 +11,7 @@
    :caption: Contents:
 
    model_view/index
+   qsql_xml/index
 
 
 Indices and tables
